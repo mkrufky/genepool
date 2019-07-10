@@ -3,7 +3,7 @@ package contextworkpool
 import (
 	"context"
 
-	"github.com/vimeo/genepool/workpool"
+	"github.com/mkrufky/genepool/workpool"
 )
 
 // ContextWorkpool is an object that will allocate a channel for scheduling
